@@ -1,0 +1,15 @@
+/* App.module.css */
+
+.container {
+        max-width: 800px;
+        margin-left: 250px;
+        margin-top: 20px;
+        
+    }
+    
+    .title {
+        text-align: center;
+        margin-bottom: 20px;
+        color: brown;
+        margin-left: 300px;
+    }
